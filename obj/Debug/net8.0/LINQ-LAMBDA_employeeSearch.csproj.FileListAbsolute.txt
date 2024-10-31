@@ -1,0 +1,14 @@
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.AssemblyInfoInputs.cache
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.AssemblyInfo.cs
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.csproj.CoreCompileInputs.cache
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\bin\Debug\net8.0\LINQ-LAMBDA_employeeSearch.exe
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\bin\Debug\net8.0\LINQ-LAMBDA_employeeSearch.deps.json
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\bin\Debug\net8.0\LINQ-LAMBDA_employeeSearch.runtimeconfig.json
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\bin\Debug\net8.0\LINQ-LAMBDA_employeeSearch.dll
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\bin\Debug\net8.0\LINQ-LAMBDA_employeeSearch.pdb
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.dll
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\refint\LINQ-LAMBDA_employeeSearch.dll
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.pdb
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\LINQ-LAMBDA_employeeSearch.genruntimeconfig.cache
+C:\Users\Leuch_01\Desktop\LINQ-LAMBDA-EmployeeSearch\LINQ-LAMBDA_employeeSearch\LINQ-LAMBDA_employeeSearch\obj\Debug\net8.0\ref\LINQ-LAMBDA_employeeSearch.dll
